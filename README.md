@@ -49,7 +49,7 @@
 
 ###  Контакты
 
-[![Email](https://img.shields.io/badge/Email-ismail.ilyasov.2006@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismail@example.com)
+[![Email](https://img.shields.io/badge/Email-ismail.ilyasov.2006@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismail.ilyasov.2006@mail.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-@fwfdwqwf-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 [![GitHub](https://img.shields.io/badge/GitHub-carolineriper-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
