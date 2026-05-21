@@ -2,7 +2,7 @@
 
 #  Привет! Меня зовут Исмаил
 
-**Я студент 2 курса Финансового университета | Начинающий Data Scientist и Data Analyst**
+**Начинающий Data Scientist и Data Analyst**
 
 ---
 
