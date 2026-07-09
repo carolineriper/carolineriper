@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Привет! Меня зовут Исмаил
+#  Привет!
 
 **Начинающий Data Scientist и Data Analyst**
 
