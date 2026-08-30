@@ -37,14 +37,6 @@ Applied Mathematics and Computer Science student at **Financial University under
 
 ---
 
-## GitHub Activity
-
-\<p align="center">
-&#x20; \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=YOUR\_USERNAME&theme=github-compact&hide\_border=true](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=github-compact\&hide_border=true)" alt="GitHub Activity Graph" />
-\</p>
-
----
-
 ## Connect with Me
 
 - Telegram: *(@ffwfdwqwf)*
