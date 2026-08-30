@@ -1,47 +1,51 @@
-<div align="center">
+# Hi there, I'm Ismail Ilyasov 
 
-#  Привет!
+### Risk Analytics • Data Science • Machine Learning
 
-**Начинающий Data Scientist и Data Analyst**
-
----
-
-###  Обо мне
-
-Я активно развиваюсь в области **Data Science** и **Data Analytics**.  
-Моя цель — превращать сырые данные в ценные инсайты и создавать интеллектуальные решения.  
-Постоянно учусь новому и стремлюсь применять знания на практике!
+Applied Mathematics and Computer Science student at **Financial University under the Government of the Russian Federation**, specializing in **Applied Mathematics and Computer Science**. I have a strong interest in risk analytics, statistical modeling, and machine learning. I enjoy solving data-driven problems, building predictive models, and turning raw data into meaningful insights.
 
 ---
 
-### Мой стек технологий
+## About Me
 
-| Категория | Технологии |
-|-----------|------------|
-| **Языки программирования** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
-| **Анализ данных** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-FF6B6B?style=flat-square) |
-| **Визуализация** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-5C8E44?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
-| **Машинное обучение** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6B00?style=flat-square&logo=xgboost&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-FF6B6B?style=flat-square) |
-| **Глубокое обучение** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **Базы данных** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **BI и дашборды** | ![Superset](https://img.shields.io/badge/Superset-20A6C9?style=flat-square&logo=apache-superset&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
-| **Инструменты** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)|
-| **Облачные технологии** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+- 🎓 Studying Applied Mathematics and Computer Science at Financial University
+- 📊 Interested in Risk Analytics and Data Science
+- 🤖 Passionate about Machine Learning and Predictive Modeling
+- 📈 Focused on solving real-world business problems using data
+- 🌱 Continuously improving my skills in statistics, SQL, and machine learning
 
 ---
-### Мои проекты
 
-| Проект | Описание | Технологии | Результаты |
-|--------|----------|------------|------------|
-| **A/B-тестирование для e-commerce** | Подготовка данных и проведение полноценного A/B теста для интернет-магазина. Проверка гипотез, расчет мощности теста, статистический анализ результатов, визуализация выводов | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-FF6B6B?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) | • Определил статистически значимое улучшение конверсии на 15%<br>• Создал интерактивный дашборд для отслеживания метрик<br>• Разработал рекомендации по внедрению изменений |
-| **Детекция мошеннических банковских транзакций** | Построен классификатор на основе градиентного бустинга и стекинга (CatBoost + LightGBM + логистическая регрессия) с тонкой настройкой порога для максимизации Recall при сохранении Precision. Проведён feature engineering временных и поведенческих признаков. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=python&logoColor=black) ![LightGBM](https://img.shields.io/badge/LightGBM-1793D0?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | • Достигнут F1-score > 0.85 на сильно несбалансированных данных<br>• Максимизирован Recall при сохранении Precision через настройку порога<br>• Реализован стекинг градиентного бустинга с логистической регрессией |
-| **Система рекомендаций для стриминга** | Построение системы рекомендаций контента на основе коллаборативной фильтрации и контентных признаков. Анализ поведения пользователей, создание персонализированных рекомендаций | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Surprise](https://img.shields.io/badge/Surprise-FF6B6B?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | • Улучшил релевантность рекомендаций на 25%<br>• Разработал REST API для интеграции с фронтендом<br>• Создал дашборд для анализа эффективности системы |
+## Skills
+
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, SciPy
+- **Machine Learning:** Scikit-learn, XGBoost
+- **Visualization:** Matplotlib, Seaborn
+- **Databases:** PostgreSQL
+- **Tools:** Git, GitHub, Jupyter Notebook
 
 ---
-#### **В планах на ближайшее время:**
--  **Развертывание ML моделей** - FastAPI, Streamlit для создания веб-интерфейсов
--  **Работа с большими данными** - основы Spark/PySpark для распределенных вычислений
--  **Углубление в нейросети** - трансформеры для временных рядов и NLP задач
--  **Автоматизация ETL-процессов** - Apache Airflow для оркестрации пайплайнов
 
-</div>
+## Currently Learning
+
+- Advanced SQL
+- Credit Risk Modeling
+- Large Language Models (LLMs)
+- Deep Learning
+- MLOps Fundamentals
+
+---
+
+## GitHub Activity
+
+\<p align="center">
+&#x20; \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=YOUR\_USERNAME&theme=github-compact&hide\_border=true](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=github-compact\&hide_border=true)" alt="GitHub Activity Graph" />
+\</p>
+
+---
+
+## Connect with Me
+
+- Telegram: *(@ffwfdwqwf)*
+- Email: *(ismail.ilyasov.2006@mail.ru)*
